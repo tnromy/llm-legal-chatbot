@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.zip
+.ipynb_checkpoints/
+out/
+secrets/
+*.keras
+.venv-tools/

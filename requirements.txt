@@ -1,0 +1,22 @@
+# Dijalankan di Kaggle Notebook (GPU T4, Python 3.13)
+torch==2.11.0
+transformers==5.17.0
+unsloth==2026.11.1
+trl==1.15.0
+peft==0.21.2
+bitsandbytes==0.50.2
+datasets==4.8.5
+accelerate
+huggingface_hub
+pandas
+matplotlib
+# RAG
+langchain-classic
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+rank_bm25
+pypdf
+ddgs

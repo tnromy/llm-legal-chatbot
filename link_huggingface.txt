@@ -1,0 +1,5 @@
+Model hasil Fine-tuning (SFT, QLoRA):
+https://huggingface.co/tnromy/Qwen2.5-1.5B-Legal-ID-SFT
+
+Model hasil GRPO (reasoning <think>):
+https://huggingface.co/tnromy/Qwen2.5-1.5B-Legal-ID-GRPO
